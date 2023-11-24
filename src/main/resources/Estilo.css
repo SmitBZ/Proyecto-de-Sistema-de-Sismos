@@ -1,0 +1,46 @@
+
+.fa-solid{
+    color: black;
+}
+
+body{margin: 0;
+    padding: 0;
+    background: url(wasaa.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    min-height: 100vh;
+    background-color: beige;
+}
+table{
+        border: 1px solid black;
+        border-collapse: collapse;
+        margin: auto;
+}
+td{
+    padding: 1rem;
+    border : 1px solid black;
+}
+thead{
+    background-color:turquoise;
+    color: white;
+}
+#titulo{
+    text-align: center;
+}
+#total{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+tbody td:first-child{
+    background-color: turquoise;
+    color: white;
+}
+tbody tr:nth-child(2n){
+background-color: beige;
+}
+tbody tr:nth-child(2n+1){
+    background-color: white;
+}
