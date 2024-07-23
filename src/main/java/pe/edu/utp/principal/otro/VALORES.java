@@ -4,6 +4,7 @@ import java.time.LocalTime;
 
 /**
  * @author Cesar Abel Bustamante Inoach
+ * @author Smit BZ
  */
 public class VALORES {
     /**
